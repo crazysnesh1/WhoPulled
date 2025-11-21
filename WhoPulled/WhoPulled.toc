@@ -1,0 +1,12 @@
+## Interface: 30300
+## Version: 0.2
+## Title: Who Pulled? - [|cffb1997fUltimoWoW|r]
+## Notes: Уведомляет вас, кто спулил босса, и позволяет рассказать всем, кто это сделал..
+## SavedVariables: WhoPulled_Settings WhoPulled_RageList WhoPulled_Ignore WhoPulled_Tanks
+## Author: Aierre
+## X-Curse-Project-Name: Who Pulled?
+## X-Curse-Project-ID: whopulled
+
+WhoPulled.lua
+WhoPulledOptions.lua
+WhoPulled.xml
